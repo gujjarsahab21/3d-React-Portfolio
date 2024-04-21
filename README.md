@@ -15,7 +15,7 @@ Welcome to my 3D React portfolio! This project combines the power of React.js an
 
 To get started with the development environment, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/3d-react-portfolio.git`
+1. Clone the repository: `git clone https://github.com/gujjarsahab21/3d-react-portfolio.git`
 2. Navigate to the project directory: `cd 3d-react-portfolio`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
